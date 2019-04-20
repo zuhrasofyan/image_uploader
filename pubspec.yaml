@@ -25,6 +25,8 @@ dependencies:
   cupertino_icons: ^0.1.2
 
   # User generate dependencies
+  google_api_availability: '^2.0.0'
+  geolocator: '^3.0.1'
   image_picker: 
 
 dev_dependencies:
